@@ -1,5 +1,5 @@
-# Custom Mac OS X Keyboard layout (ergonomics + efficiency)
-The layout is optimized for ergonomics and speed while coding. 
+# Custom Mac OS X Keyboard layout
+## Optimized for ergonomics & efficient coding
 You can switch to the symbol layer by holding the Alt key (option key). 
 It is based on the AdNW KOY variation which performs much better than the QWERTY/Z and even the DVORAK layout (see: https://wiki.ubuntuusers.de/AdNW_und_KOY/)
 In addition, the symbol layer has been restructured (thanks to entdev).
