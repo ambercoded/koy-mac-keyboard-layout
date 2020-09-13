@@ -11,5 +11,6 @@ Open the .keylayout file with the tool Ukulele and modify it to your liking. htt
 
 # Default layer and Symbol layer
 You can switch to the symbol layer by holding the Alt key (option key).
+
 <img src="screenshots/default-layer.png" alt="Default Layer" width="320"/>
 <img src="screenshots/symbol-layer.png" alt="Symbol Layer" width="320"/>
