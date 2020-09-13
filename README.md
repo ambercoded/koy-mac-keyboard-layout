@@ -1,6 +1,12 @@
 # koy-mac-keyboard-layout
 A custom keyboard layout. Optimized for ergonomics and speed while coding. 
 
+# KOY layer and Symbol layer
+You can switch to the symbol layer by holding the Alt key (option key).
+
+<img src="screenshots/default-layer.png" alt="Default Layer" width="320"/>
+<img src="screenshots/symbol-layer.png" alt="Symbol Layer" width="320"/>
+
 # How to install
 1. Copy the .keylayout file into your ~/Library/Keyboard Layouts/ folder.
 2. Add your new keyboard layout here: System Preferences > Keyboard > Input Sources. Then select it. 
@@ -9,8 +15,3 @@ A custom keyboard layout. Optimized for ergonomics and speed while coding.
 # How to modify the layout
 Open the .keylayout file with the tool Ukulele and modify it to your liking. https://software.sil.org/ukelele/
 
-# Default layer and Symbol layer
-You can switch to the symbol layer by holding the Alt key (option key).
-
-<img src="screenshots/default-layer.png" alt="Default Layer" width="320"/>
-<img src="screenshots/symbol-layer.png" alt="Symbol Layer" width="320"/>
